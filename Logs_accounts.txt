@@ -1,13 +1,13 @@
 {
     "omromstorage4@gmail.com": {
-        "Last check": "2023-05-05",
-        "Today's points": 420,
-        "Points": 3343
+        "Last check": "2023-05-06",
+        "Today's points": 440,
+        "Points": 3783
     },
     "bramhaassociates.abad@gmail.com": {
-        "Last check": "2023-05-05",
-        "Today's points": 430,
-        "Points": 1045
+        "Last check": "2023-05-06",
+        "Today's points": 440,
+        "Points": 1485
     },
-    "Elapsed time": "00:29:12"
+    "Elapsed time": "00:23:44"
 }
